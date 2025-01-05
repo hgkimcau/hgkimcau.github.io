@@ -23,12 +23,13 @@ twitter: your_twitter_id  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    I am an Assistant Professor at Graduate School of Advanced Imaging Science, Multimedia & Films (GSAIM), Chung-Ang University, where I am leading Immersive Reality & Intelligent Systems Lab (IRIS LAB).
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    Before joining Chung-Ang University, I was a postdoctoral researcher in School of Computer and Communication Sciences (IC), a visiting postdoctoral researcher in Electrical Engineering at École Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland, and a postdoctoral researcher in School of Electrical Engineering at KAIST, Daejeon, Korea. I received the B.S. and M.S. degrees in School of Electronic Engineering at Inha University, Incheon, Korea, in 2012 and 2014, respectively. I received the Ph.D. degree in School of Electrical Engineering at KAIST, Daejeon, Korea, in 2019.
+  </p>
+  <p>
+    My research interests include 3D/AR/VR/Metaverse Image and Video Processing, Human Visual Perception, Computer Vision, Machine Learning and Artificial Intelligence, particularly Convergence of AI & Reality, eXplainable AI (XAI), and the vulnerability of deep neural network.
   </p>
 
 portrait_url: /assets/images/photos/hgkim.jpg
@@ -58,12 +59,12 @@ education:
 - name: Inha University
   logo: /assets/images/badges/inha_univ.png
   position: >- 
-    M.S. in School of Electrical Engineering
+    M.S. in Department of Electronic Engineering
   date: Mar. 2012 - Feb. 2014
 - name: Inha University
   logo: /assets/images/badges/inha_univ.png
   position: >- 
-    B.S. in School of Electrical Engineering
+    B.S. in Department of Electronic Engineering
   date: Mar. 2007 - Feb. 2012
 
 # awards:
