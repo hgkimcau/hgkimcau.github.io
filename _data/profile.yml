@@ -1,16 +1,16 @@
-primary_name: "Your Name"
+primary_name: "Hak Gu Kim"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Hak Gu Kim"
 
-positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: Position 1 with logo
-- name: Position 2 without logo
+# positions:
+# - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+#   name: Position 1 with logo
+# - name: Position 2 without logo
 
 
-email: "your@email.com"
+email: "hakgukim@cau.ac.kr"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
+gscholar: Jgh1JYgAAAAJ&hl  # This is an example, replace it with your own Google Scholar ID
 github: your_github_id
 twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
@@ -30,32 +30,45 @@ short_bio: >-
     as well as being common in domestic longhair and domestic shorthair cats.
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+portrait_url: /assets/images/photos/hgkim.jpg
+# portrait_caption: >-
+#   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+
+experience:
+- name: Chung-Ang University
+  logo: /assets/images/badges/PKU_red.png
+  position: Assistant Professor
+  date: Sep. 2021 - present
+- name: École Polytechnique Fédérale de Lausanne (EPFL)
+  logo: /assets/images/badges/PKU_red.png
+  position: Postdoctral Researcher
+  date: Sep. 2019 - Aug. 2021
+- name: Korea Advanced Institute of Science & Technology (KAIST)
+  logo: /assets/images/badges/PKU_red.png
+  position: Postdoctral Researcher
+  date: Mar. 2019 - Aug. 2019
 
 education:
-- name: Massachusetts Institute of Technology
+- name: Korea Advanced Institute of Science & Technology (KAIST)
   logo: /assets/images/badges/MIT_Social_circle.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+    Ph.D. in School of Electrical Engineering
+  date: Mar. 2014 - Feb. 2019
+- name: Inha University
+  logo: /assets/images/badges/MIT_Social_circle.png
+  position: >- 
+    M.S. in School of Electrical Engineering
+  date: Mar. 2012 - Feb. 2014
+- name: Inha University
+  logo: /assets/images/badges/MIT_Social_circle.png
+  position: >- 
+    B.S. in School of Electrical Engineering
+  date: Mar. 2007 - Feb. 2012
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
-
-awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+# awards:
+# - name: Award Name 2
+#   date: 2024
+# - name: Award Name 1 
+#   date: 2021
+# - name: A quick brown fox jumps over the lazy dog and runs away award
+#   date: 2021
