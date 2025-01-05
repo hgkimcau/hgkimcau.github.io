@@ -96,13 +96,13 @@
 
                         {% if site.data.profile.webpage %}
                         <!-- <a class="pr-3 no-break" target="_blank" href="https://orcid.org/{{ site.data.profile.orcid }}"> -->
-                        <a target="_blank" href="{{ site.data.profile.webpage | relative_url }}">
+                        <a class="pr-3 no-break" target="_blank" href="{{ site.data.profile.webpage | relative_url }}">
                             <i class="fa-solid fa-house"></i> LABORATORY
                         </a>
                         {% endif %}
                         
                         {% if site.data.profile.cv_link %}                            
-                        <a target="_blank"  href="{{ site.data.profile.cv_link | relative_url }}" target="_blank">
+                        <a class="pr-3 no-break" target="_blank"  href="{{ site.data.profile.cv_link | relative_url }}" target="_blank">
                             <i class="fa-solid fa-download"></i> CV</a><br/>
                         {% endif %}
                     </div>
