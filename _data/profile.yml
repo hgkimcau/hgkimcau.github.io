@@ -1,3 +1,4 @@
+
 primary_name: "Hak Gu Kim"
 secondary_name: ""
 navbar_name: "Hak Gu Kim"
@@ -36,31 +37,31 @@ portrait_url: /assets/images/photos/hgkim.jpg
 
 experience:
 - name: Chung-Ang University
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/cau.png
   position: Assistant Professor
   date: Sep. 2021 - present
 - name: École Polytechnique Fédérale de Lausanne (EPFL)
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/epfl.png
   position: Postdoctral Researcher
   date: Sep. 2019 - Aug. 2021
 - name: Korea Advanced Institute of Science & Technology (KAIST)
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/kaist.png
   position: Postdoctral Researcher
   date: Mar. 2019 - Aug. 2019
 
 education:
 - name: Korea Advanced Institute of Science & Technology (KAIST)
-  logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/badges/kaist.png
   position: >- 
     Ph.D. in School of Electrical Engineering
   date: Mar. 2014 - Feb. 2019
 - name: Inha University
-  logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/badges/inha_univ.png
   position: >- 
     M.S. in School of Electrical Engineering
   date: Mar. 2012 - Feb. 2014
 - name: Inha University
-  logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/badges/inha_univ.png
   position: >- 
     B.S. in School of Electrical Engineering
   date: Mar. 2007 - Feb. 2012
