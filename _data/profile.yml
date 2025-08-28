@@ -23,13 +23,14 @@ cv_link: https://www.dropbox.com/scl/fi/xbpxmj54rrc3f562vuju2/CV_hgkim-2024.pdf?
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am an Assistant Professor at Graduate School of Advanced Imaging Science, Multimedia & Films (GSAIM), Chung-Ang University, where I am leading Immersive Reality & Intelligent Systems Lab (IRIS LAB).
+    I am an Associate Professor at Graduate School of Advanced Imaging Science, Multimedia & Films (GSAIM), Chung-Ang University, where I am leading Immersive Reality & Integrated Systems Lab (IRIS LAB).
   </p>
   <p>
-    Before joining Chung-Ang University, I was a postdoctoral researcher in School of Computer and Communication Sciences (IC), a visiting postdoctoral researcher in Electrical Engineering at École Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland, and a postdoctoral researcher in School of Electrical Engineering at KAIST, Daejeon, Korea. I received the B.S. and M.S. degrees in School of Electronic Engineering at Inha University, Incheon, Korea, in 2012 and 2014, respectively. I received the Ph.D. degree in School of Electrical Engineering at KAIST, Daejeon, Korea, in 2019.
+    Before joining Chung-Ang University, I was a postdoctoral researcher in School of Computer and Communication Sciences (IC) and in Electrical Engineering (LTS4) at École Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland.
+    I received the B.S. and M.S. degrees in School of Electronic Engineering at Inha University, Incheon, Korea, in 2012 and 2014, respectively. I received the Ph.D. degree in School of Electrical Engineering at KAIST, Daejeon, Korea, in 2019.
   </p>
   <p>
-    My research interests include 3D/AR/VR/Metaverse Image and Video Processing, Human Visual Perception, Computer Vision, Machine Learning and Artificial Intelligence, particularly Convergence of AI & Reality, eXplainable AI (XAI), and the vulnerability of deep neural network.
+    My research interests include Human-centered AI (HCAI) and Immersive content generation for 3D/AR/VR/Metaverse, particularly Convergence of AI & Reality.
   </p>
 
 portrait_url: /assets/images/photos/hgkim.jpg
@@ -39,16 +40,17 @@ portrait_url: /assets/images/photos/hgkim.jpg
 experience:
 - name: Chung-Ang University
   logo: /assets/images/badges/cau.png
+  position: Associate Professor
+  date: Sep. 2025 - present
+- name: Chung-Ang University
+  logo: /assets/images/badges/cau.png
   position: Assistant Professor
-  date: Sep. 2021 - present
+  date: Sep. 2021 - Aug. 2025
 - name: École Polytechnique Fédérale de Lausanne (EPFL)
   logo: /assets/images/badges/epfl.png
   position: Postdoctral Researcher
   date: Sep. 2019 - Aug. 2021
-- name: Korea Advanced Institute of Science & Technology (KAIST)
-  logo: /assets/images/badges/kaist.png
-  position: Postdoctral Researcher
-  date: Mar. 2019 - Aug. 2019
+
 
 education:
 - name: Korea Advanced Institute of Science & Technology (KAIST)
