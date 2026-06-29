@@ -1,17 +1,17 @@
 export const ABOUT = {
   bio: [
-    "I am an Associate Professor in the [Kim Jaechul Graduate School of AI](https://gsai.kaist.ac.kr) at KAIST, where I lead the [Statistical Inference and Machine Learning (SIML) Lab](https://siml.kaist.ac.kr).",
-    "Before joining KAIST, I worked as a Research Scientist at [AITRICS](https://aitrics.com). I received my PhD in [Computer Science and Engineering](https://cse.postech.ac.kr/) from POSTECH under the supervision of Professor [Seungjin Choi](http://mlg.postech.ac.kr/~seungjin), and then completed a postdoc in the [Computational Statistics & Machine Learning group](https://www.stats.ox.ac.uk/computational-statistics-and-machine-learning) at the University of Oxford with Professor [François Caron](https://www.stats.ox.ac.uk/~caron/).",
+    "I am an Associate Professor in the [Graduate School of Advanced Imaging Science, Multimedia & Films](https://gsaim.cau.ac.kr/) at Chung-Ang University, where I lead the [Immersive Reality & Integrated Systems (IRIS) Lab](https://www.irislab.cau.ac.kr/).",
+    "Before joining Chung-Ang University, I worked as a Postdoctoral Researcher in the [Signal Processing Lab (LTS4)](https://www.epfl.ch/labs/lts4/) with Professor [Pascal Frossard](https://www.epfl.ch/labs/lts4/people/people-current/frossard/) and the [Image and Visual Representation Lab (IVRL)](https://www.epfl.ch/labs/ivrl/) with Professor [Sabine Süsstrunk](https://people.epfl.ch/sabine.susstrunk?lang=en) at EPFL, Switzerland. I received my PhD in [Electrical Engineering](https://ee.kaist.ac.kr/) from KAIST under the supervision of Professor [Yong Man Ro](https://www.ivllab.kaist.ac.kr/)",
   ],
   researchInterests: [
-    "Bayesian deep learning",
-    "Predictive modeling of uncertainty for large-scale models",
-    "Foundation models for statistical inference",
-    "Synthetic data generation for self-improving models",
-    "ML-based weather forecasting",
-    "Diffusion models and stochastic optimal control theory"
+    "Human-Centered AI",
+    "Multimodal AI",
+    "Generative AI",
+    "Neural Rendering",    
+    "Computational Cognition",
+    "Human Behavior Understanding"
   ],
   prospectiveStudents: [
-    "I’m seeking self-motivated students who are interested in machine learning, deep learning, and Bayesian methods. Currently, I only advise students who are enrolled in the Kim Jaechul graduate school of AI. If you want to work with me, I encourage you to reach out to me early, ideally two or three months before the grad school admission deadline and work on research projects under my supervision.",
+    "I’m seeking self-motivated students who are interested in AI & Reality research. If you want to work with me, I encourage you to reach out to me early, ideally two or three months before the grad school admission deadline and work on research projects under my supervision. Please email me with your transcript & CV.",
   ],
 };
