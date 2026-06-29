@@ -82,14 +82,10 @@ export const TEACHING = [
 ];
 
 export const SERVICE = [
-  <!--{
-    role: "Area Chair",
-    details: "NeurIPS (2023-2025), ICLR (2025-2026), ICML (2025-2026), ACML (2025)",
-  },
   {
-    role: "Associate Editor",
-    details: "Bayesian Analysis (2025)",
-  },-->
+    role: "Area Chair",
+    details: "ICIP (2026)",
+  }, 
   {
     role: "Conference Reviewer",
     details: "AAAI, AISTATS, CVPR, BMVC, ECCV, ICCV, ICLR, ICML, Interspeech, NeurIPS, VR",
