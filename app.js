@@ -559,7 +559,8 @@ function renderPublications() {
           pub.status === "to_appear" ? '<span class="pub-status">To appear in</span> ' : "";
         const pubId = getPublicationId(pub);
         const bibtexBlock = escapeHtml(formatBibTeX(pub));
-        const exportButtons = `<button class="action-link" type="button" data-action="toggle-bibtex" data-pub-id="${escapeHtml(pubId)}" aria-expanded="false">BibTeX</button>`;
+        const exportButtons = "";
+        // const exportButtons = `<button class="action-link" type="button" data-action="toggle-bibtex" data-pub-id="${escapeHtml(pubId)}" aria-expanded="false">BibTeX</button>`;
 
         return `
           <li class="publication-item">
