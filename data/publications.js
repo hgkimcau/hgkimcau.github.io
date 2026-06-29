@@ -285,7 +285,7 @@ export const PUBLICATIONS = [
     links: [
       { label: "Paper", url: "https://ieeexplore.ieee.org/document/10411890" },
     ],
-  }
+  },
 ];
 
 /*
