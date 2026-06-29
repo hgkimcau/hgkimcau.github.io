@@ -1,114 +1,101 @@
 export const TALKS = [
   {
-    title: "Martingale posterior neural processes",
-    event: "BIRS Workshop Chennai",
-    location: "India",
-    year: 2025,
-    month: "December",
-  },
-  {
-    title: "Panelist for discussion on Agentic AI",
-    event: "SK AI Summit",
+    title: "MemoryTalker: Personalized Speech-Driven 3D Facial Animation via Audio-Guided Stylization",
+    event: "The Korean Institute of Broadcast and Media Engineers",
     location: "South Korea",
-    year: 2025,
-    month: "November",
-  },
-  {
-    title: "Generative modelling with diffusion models",
-    event:
-      "Foundation and Future of Generative Models: Mathematics and Applications, City University of Hong Kong",
-    location: "Hong Kong",
-    year: 2025,
-    month: "September",
-  },
-  {
-    title: "Research trend in epistemic uncertainty quantification for deep learning",
-    event: "Korea Research Institute of Standards and Science",
-    location: "South Korea",
-    year: 2025,
-    month: "August",
-  },
-  {
-    title: "Scaling Bayesian deep learning for fast and accurate inference",
-    event: "Back to the Future: Robot Learning Going Probabilistic Workshop @ ICRA 2024",
-    location: "Japan",
-    year: 2024,
-    month: "May",
-  },
-  {
-    title: "Scalable approaches for Bayesian pseudocoresets",
-    event: "RIKEN ABI Team",
-    location: "Japan",
-    year: 2024,
-    month: "February",
-  },
-  {
-    title: "Diversity matters when learning from ensembles",
-    event: "Korean Institute of Information Scientists and Engineers",
-    location: "South Korea",
-    year: 2022,
+    year: 2026,
     month: "June",
   },
   {
-    title: "AI and mind",
-    event: "Yonsei University College of Medicine",
+    title: "Speech-driven 3D Facial Animation",
+    event: "Communication University of Zhejiang",
     location: "South Korea",
-    year: 2021,
+    year: 2025,
+    month: "July",
+  },
+  {
+    title: "ComfyUI & Generative AI for Content Creation",
+    event: "Chungkang College of Cultural Industries",
+    location: "South Korea",
+    year: 2025,
+    month: "July",
+  },
+  {
+    title: "Deep Learning-based Image Processing: Principles and Applications",
+    event: "LG Electronics",
+    location: "South Korea",
+    year: 2025,
+    month: "June",
+  },
+  {
+    title: "Recent 3D Generative Models and Applications",
+    event: "Osstem Implant",
+    location: "South Korea",
+    year: 2024,
     month: "November",
+  },
+  {
+    title: "Deep Learning-based 3D Generative Models: An Introduction and Research Trends",
+    event: "The Korean Institute of Broadcast and Media Engineers",
+    location: "South Korea",
+    year: 2024,
+    month: "August",
   },
 ];
 
-export const TEACHING = [
+export const TEACHING = [  
   {
-    course: "Bayesian deep learning",
-    code: "AI708",
-    institution: "KAIST",
+    course: "Image Processing & Vision",
+    code: "55397",
+    institution: "Chung-Ang University",
     term: "Spring",
-    years: "2024-2026",
+    years: "2022-2026",
   },
   {
-    course: "Bayesian nonparametric methods for machine learning",
-    code: "AI706",
-    institution: "KAIST",
+    course: "Deep Learning-based 3D Generation Model",
+    code: "56625",
+    institution: "Chung-Ang University",
     term: "Spring",
-    years: "2023",
+    years: "2022-2026",
   },
   {
-    course: "Bayesian machine learning",
-    code: "AI701",
-    institution: "KAIST",
+    course: "Computer Game Intelligence",
+    code: "30543",
+    institution: "Chung-Ang University",
+    term: "Spting",
+    years: "2022-2026",
+  },
+  {
+    course: "Computational Photography",
+    code: "59164",
+    institution: "Chung-Ang University",
     term: "Fall",
-    years: "2020-2025",
+    years: "2021-2025",
   },
   {
-    course: "Machine learning for AI",
-    code: "AI501",
-    institution: "KAIST",
-    term: "Spring",
-    years: "2021, 2022",
-  },
-  {
-    course: "Lecturer for Samsung DS AI expert course",
-    institution: "Samsung DS",
-    years: "2020",
+    course: "Advanced AI",
+    code: "58267",
+    institution: "Chung-Ang University",
+    term: "Fall",
+    years: "2023-2026",
   },
 ];
 
 export const SERVICE = [
-  {
+  <!--{
     role: "Area Chair",
     details: "NeurIPS (2023-2025), ICLR (2025-2026), ICML (2025-2026), ACML (2025)",
   },
   {
     role: "Associate Editor",
     details: "Bayesian Analysis (2025)",
-  },
+  },-->
   {
     role: "Conference Reviewer",
-    details: "NeurIPS, ICLR, ICML, AISTATS (since 2012), ECCV, CVPR, ICCV",
+    details: "AAAI, AISTATS, CVPR, BMVC, ECCV, ICCV, ICLR, ICML, Interspeech, NeurIPS, VR",
   },
   {
     role: "Journal Reviewer",
-    details: "Annals of Statistics (2025), JRSS-B (2024), Electronic Journal of Statistics (2021)",
+    details: "IEEE TCSVT, IEEE TIP, IEEE TIFS, IEEE TMM, IEEE TNNLS, IEEE TVCG",
   },
 ];
