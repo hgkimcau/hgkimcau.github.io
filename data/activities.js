@@ -62,7 +62,7 @@ export const TEACHING = [
     course: "Computer Game Intelligence",
     code: "30543",
     institution: "Chung-Ang University",
-    term: "Spting",
+    term: "Spring",
     years: "2022-2026",
   },
   {
