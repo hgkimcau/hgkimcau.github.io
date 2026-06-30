@@ -96,6 +96,21 @@ export const VENUE_ALIASES = {
 
 export const PUBLICATIONS = [
   {
+    title: "Revealing Hidden Response Ambiguity in Binary Evaluation of Cultural Gesture Understanding",
+    titleSentenceCase: false,
+    category: "workshop",
+    authors: [
+      "Sunghun Kang",
+      "Seungjae Lee",
+      "Hongseok Cho",
+      "Hyeokjun Kweon",
+      "Hak Gu Kim",
+    ],
+    year: 2026,
+    venue: "icip",
+    status: "to_appear"
+  },
+  {
     title: "ArtBoost: Synthetic Articulatory Data Augmentation for Acoustic-to-Articulatory Inversion",
     titleSentenceCase: false,
     category: "conference",
