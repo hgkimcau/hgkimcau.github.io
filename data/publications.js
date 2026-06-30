@@ -108,7 +108,8 @@ export const PUBLICATIONS = [
     ],
     year: 2026,
     venue: "icip",
-    status: "to_appear"
+    status: "to_appear",
+    isNew: true,
   },
   {
     title: "ArtBoost: Synthetic Articulatory Data Augmentation for Acoustic-to-Articulatory Inversion",
