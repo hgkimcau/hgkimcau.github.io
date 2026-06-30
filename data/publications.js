@@ -90,7 +90,9 @@ export const PUBLICATIONS = [
     ],
     year: 2026,
     venue: "interspeech",
-    status: "to_appear",
+    links: [
+      { label: "arXiv", url: "https://arxiv.org/abs/2606.16327" },
+      { label: "Project", url: "https://cau-irislab.github.io/Interspeech26-ArtBoost/" },
     isNew: true,
   },
   {
