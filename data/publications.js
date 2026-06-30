@@ -51,6 +51,18 @@ export const VENUE_ALIASES = {
     name: "IEEE International Conference on Image Processing",
     short: "ICIP",
   },
+  icassp: {
+    name: "IEEE International Conference on Acoustics, Speech and Signal Processing",
+    short: "ICASSP",
+  },
+  mm: {
+    name: "ACM Multimedia",
+    short: "ACM MM",
+  },
+  vrst: {
+    name: "ACM Symposium on Virtual Reality Software and Technology",
+    short: "ACM VRST",
+  },
   ijcai: {
     name: "International Joint Conference on Artificial Intelligence",
     short: "IJCAI",
@@ -74,6 +86,10 @@ export const VENUE_ALIASES = {
   ieee_tcsvt: {
     name: "IEEE Transactions on Circuits and Systems for Video Technology",
     short: "IEEE TCSVT",
+  },
+  oe: {
+    name: "Optics Express",
+    short: "OPTICS EXPRESS",
   }
 };
 
@@ -287,6 +303,103 @@ export const PUBLICATIONS = [
     venue: "ieee_access",
     links: [
       { label: "Paper", url: "https://ieeexplore.ieee.org/document/10411890" },
+    ],
+  },
+  {
+    title: "Assessing Individual VR Sickness through Deep Feature Fusion of VR Video and Physiological Response",
+    titleSentenceCase: false,
+    category: "journal",
+    authors: [
+      "Sangmin Lee",
+      "Seongyeop Kim",      
+      "Hak Gu Kim",
+      "Yong Man Ro",
+    ],
+    year: 2022,
+    venue: "ieee_tcsvt",
+    links: [
+      { label: "Paper", url: "https://ieeexplore.ieee.org/abstract/document/9509443" },
+    ],
+  },
+  {
+    title: "Natural-Looking Adversarial Examples from Freehand Sketches",
+    titleSentenceCase: false,
+    category: "conference",
+    authors: [      
+      "Hak Gu Kim",
+      "Davide Nanni",      
+      "Sabine Süsstrunk",
+    ],
+    year: 2022,
+    venue: "icassp",
+    links: [
+      { label: "Paper", url: "https://ieeexplore.ieee.org/document/9747480" },
+    ],
+  },
+  {
+    title: "Robust Video Frame Interpolation with Exceptional Motion Map",
+    titleSentenceCase: false,
+    category: "journal",
+    authors: [      
+      "Minoh Park",
+      "Hak Gu Kim",      
+      "Yong Man Ro",
+    ],
+    year: 2022,
+    venue: "ieee_tcsvt",
+    links: [
+      { label: "Paper", url: "https://ieeexplore.ieee.org/abstract/document/9042268" },
+    ],
+  },
+  {
+    title: "Video Prediction Recalling Long-term Motion Context via Memory Alignment Learning",
+    titleSentenceCase: false,
+    category: "conference",
+    authors: [      
+      "Sangmin Lee",
+      "Hak Gu Kim",
+      "Dae Hwi Choi",
+      "Hyung-il Kim",
+      "Yong Man Ro",
+    ],
+    year: 2021,
+    venue: "cvpr",
+    links: [
+      { label: "Paper", url: "https://openaccess.thecvf.com/content/CVPR2021/html/Lee_Video_Prediction_Recalling_Long-Term_Motion_Context_via_Memory_Alignment_Learning_CVPR_2021_paper.html" },
+    ],
+  },
+  {
+    title: "Visual Comfort Aware-Reinforcement Learning for Depth Adjustment of Stereoscopic 3D Images",
+    titleSentenceCase: false,
+    category: "conference",
+    authors: [      
+      "Hak Gu Kim",
+      "Minho Park",
+      "Sangmin Lee",
+      "Seongyeop Kim",
+      "Yong Man Ro",
+    ],
+    year: 2021,
+    venue: "aaai",
+    links: [
+      { label: "Paper", url: "https://ojs.aaai.org/index.php/AAAI/article/view/16270" },
+    ],
+  },
+  {
+    title: "Towards a Better Understanding of VR Sickness: Physical Symptom Prediction for VR Contents",
+    titleSentenceCase: false,
+    category: "conference",
+    authors: [      
+      "Hak Gu Kim",
+      "Sangmin Lee",
+      "Seongyeop Kim",
+      "Heoun-taek Lim",
+      "Yong Man Ro",
+    ],
+    year: 2021,
+    venue: "aaai",
+    links: [
+      { label: "Paper", url: "https://ojs.aaai.org/index.php/AAAI/article/view/16166" },
     ],
   },
 ];
