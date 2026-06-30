@@ -567,7 +567,7 @@ function renderPublications() {
             <div class="pub-title">${formatTitle(pub)}</div>
             <div class="pub-authors">${authors}</div>
             <div class="pub-venue">${statusPrefix}${formatVenue(pub.venue, pub.year)} ${note}${newBadge}</div>
-            <div class="pub-links">${links ? `${links} <span class="dot">·</span> ` : ""}${exportButtons}</div>
+            <div class="pub-links"> ${links}${exportButtons ? `<span class="dot">·</span>${exportButtons}` : ""}</div>
             <div class="bibtex-wrapper" data-bibtex-block="${escapeHtml(pubId)}" hidden>
               <button class="action-link bibtex-copy-btn" type="button" data-action="copy-bibtex" data-pub-id="${escapeHtml(pubId)}">Copy</button>
               <pre class="bibtex-block"><code>${bibtexBlock}</code></pre>
