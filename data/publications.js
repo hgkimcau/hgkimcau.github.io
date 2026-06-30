@@ -93,6 +93,7 @@ export const PUBLICATIONS = [
     links: [
       { label: "arXiv", url: "https://arxiv.org/abs/2606.16327" },
       { label: "Project", url: "https://cau-irislab.github.io/Interspeech26-ArtBoost/" },
+    ],
     isNew: true,
   },
   {
