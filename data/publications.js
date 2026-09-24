@@ -1,6 +1,6 @@
 export const VENUE_ALIASES = {
   neurips: {
-    name: "Advances in Neural Information Processing Systems",
+    name: "Conference on Neural Information Processing Systems",
     short: "NeurIPS",
   },
   icml: {
@@ -95,6 +95,19 @@ export const VENUE_ALIASES = {
 
 
 export const PUBLICATIONS = [
+  {
+    title: "Seeing Speech: Learning Visible Articulatory Dynamics for Speech-Driven 3D Facial Animation",
+    titleSentenceCase: false,
+    category: "conference",
+    authors: [
+      "Hyung Kyu Kim",
+      "Byungchan Hwang",
+      "Hak Gu Kim",
+    ],
+    year: 2026,
+    venue: "neurips",    
+    isNew: true,
+  },
   {
     title: "Revealing Hidden Response Ambiguity in Binary Evaluation of Cultural Gesture Understanding",
     titleSentenceCase: false,
